@@ -6,11 +6,11 @@ Sou Cientista de Dados com formação em Educação Física em transição de ca
 
 ###
 <h2 align="left">🚀 Minhas principais habilidades:</h2>
-<✔ Análise de Dados com Python (Pandas, NumPy, Matplotlib, Seaborn)>
-<✔ Machine Learning (Scikit-learn, modelos como Random Forest, Decision Trees e K-Means)>
-<✔ Banco de Dados (SQL para extração e manipulação de dados)>
-<✔ Visualização de Dados (Power BI, Matplotlib, Seaborn)>
-<✔ ETL e tratamento de dados>
+<h2 align="left">✔ Análise de Dados com Python (Pandas, NumPy, Matplotlib, Seaborn)</h2>
+<h2 align="left">✔ Machine Learning (Scikit-learn, modelos como Random Forest, Decision Trees e K-Means)</h2>
+<h2 align="left">✔ Banco de Dados (SQL para extração e manipulação de dados)</h2>
+<h2 align="left">✔ Visualização de Dados (Power BI, Matplotlib, Seaborn)</h2>
+<h2 align="left">✔ ETL e tratamento de dados</h2>
 
 
 <h2 align="left">💻📂 O que você encontrará aqui:</h2>
