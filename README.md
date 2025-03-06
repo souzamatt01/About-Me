@@ -4,8 +4,7 @@
 <h2 align="left">Sobre mim:</h2>
 Sou Cientista de Dados com formação em Educação Física em transição de carreira para a área de Dados. Meu foco está em transformar dados em insights valiosos para tomada de decisão, utilizando Python, SQL, Power BI e Machine Learning.
 
-###
-<h2 align="left">🚀 Minhas principais habilidades:</h2>
+## 🚀 Minhas principais habilidades:
 - ✔ **Análise de Dados** com Python (Pandas, NumPy, Matplotlib, Seaborn)
 - ✔ **Machine Learning** (Scikit-learn, modelos como Random Forest, Decision Trees e K-Means)
 - ✔ **Banco de Dados** (SQL para extração e manipulação de dados)
