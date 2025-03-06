@@ -12,7 +12,7 @@ Sou Cientista de Dados com formação em Educação Física em transição de ca
 - **ETL e tratamento de dados**
 
 
-##💻📂 O que você encontrará aqui:
+## 💻📂 O que você encontrará aqui:
 - **Projetos de Análise de Dados e Machine Learning**
 - **Dashboards interativos com Power BI**
 - **Scripts para automação e tratamento de dados**
