@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Me chamo Matheus Souza </h1>
-<h3 align="center">Este é meu repositório de Data Science, Experimentações com Desenvolvimento Back End e Coding com Python em geral.</h3>
+<h3 align="center">Este é meu repositório de Data Science/Análise de Dados com python.
 
 <h2 align="left">Sobre mim:</h2>
 Sou Cientista de Dados com formação em Educação Física em transição de carreira para a área de Dados. Meu foco está em transformar dados em insights valiosos para tomada de decisão, utilizando Python, SQL, Power BI e Machine Learning.
